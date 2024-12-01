@@ -1,0 +1,84 @@
+/**************************************** Titre ********************************************/
+
+h1{
+    
+    text-align: center;
+    font-size: 3.5em;
+    padding: 1em 0;
+    
+}
+
+h2{
+    
+    font-size: 2em;
+    
+    text-align: center;
+    text-decoration: underline;
+    
+}
+
+/***************************************** Cards *******************************************/
+
+.card_container{
+    
+    padding: 3em 0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+}
+
+.card{
+
+    padding: 2em 0 2em 3em;
+    color: white;
+    border-radius: 15px;
+    box-shadow: 0 10px 10px rgba(0, 0, 0, .2);
+    width: 20%;
+    height: 300px;
+    margin: 2em;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+       
+}
+
+.header{
+
+    font-size: 1.8em;
+     
+}
+
+.category{
+    
+    font-size: .6em;
+    
+}
+
+p{
+
+    font-size: 1.3em;
+
+}
+
+/**************************************** Section joueur de chaque équipe *******************************************/
+
+.team_container{
+
+    padding: 3em 0;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+
+
+
+
+
+
+
+
+
+
